@@ -1,0 +1,9 @@
+body {
+    margin: 0
+}
+.navbar {
+    background: black;
+    color: white;
+    height: 120px;
+    
+}
